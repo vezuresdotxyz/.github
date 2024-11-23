@@ -1,5 +1,10 @@
 # Building Cool Shit since 2015
 
+Vezures is a blockchain software company behind groundbreaking projects like MAHA and Zerolend, revolutionizing decentralized finance. Our work includes
+
+- MAHA.xyz - https://github.com/mahaxyz/
+- ZeroLend - https://github.com/zerolend/
+
 <!--
 
 **Here are some ideas to get you started:**
